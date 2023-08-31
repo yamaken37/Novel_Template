@@ -1,0 +1,7 @@
+.nfs*
+._*
+.DS_Store
+.git/*
+.config/*
+.local/*
+*.fuse*
