@@ -1,18 +1,13 @@
 <!-- 
-ブロック_1_xxx
-ブロック_2_xxx
-ブロック_3_xxx
-ブロック_4_xxx
-ブロック_5_xxx
-ブロック_6_xxx
-ブロック_7_xxx
-ブロック_8_xxx
-ブロック_9_xxx
-ブロック_10_xxx
-# 各バージョンごとにコミット文変更 commit -m ""
-- kougai_1_theme
-- kougai_2_gimmick
-- kougai_3_fixed_theme
-- kougai_4_charactor
-- kougai_5_consistency
+タイトル：
+ブロック_1_
+ブロック_2_
+ブロック_3_
+ブロック_4_
+ブロック_5_
+ブロック_6_
+ブロック_7_
+ブロック_8_
+ブロック_9_
+ブロック_10_
  -->
